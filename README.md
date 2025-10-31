@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey hii 👋, I'm Ramakrishna
+### Aspiring Java & React Full-Stack Developer
 
-<!--
-**ramakrishna024/ramakrishna024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on: Spring Boot + React projects
+- 🌱 Learning: Microservices, JPA, Hibernate, GitHub
+- 👯 Looking to collaborate on: Java & Web Development projects
+- 💬 Ask me about: Java, Spring Boot, JDBC, React, REST APIs
+- 📫 How to reach me: kasanaboina.ramakrishna@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Hibernate, JDBC
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Eclipse, VS Code, Postman
